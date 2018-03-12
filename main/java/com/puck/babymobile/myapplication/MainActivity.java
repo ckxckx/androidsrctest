@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ckx","jieshu???");
 //        CkxShowhand.display();
 
-        ///
+        /////cccccccc
     };
 
     public void ckxclickme(View view)
